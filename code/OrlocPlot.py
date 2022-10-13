@@ -76,6 +76,7 @@ plt.gca().xaxis.set_major_formatter(plt.NullFormatter())
 # Measured once per minute. So:
 rps = dfhr['NumTicks [Cnt]']/60.
 wind_speed = 0.905*rps + 0.468
+# InSpeed states that ~3 mph is their minimum valid speed
 wind_speed[wind_speed<1.4] = np.nan
 ax = plt.subplot(10, 1, 6)
 # Note -- it could be backwards
