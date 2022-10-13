@@ -9,7 +9,7 @@ CC-BY 4.0 license applies to data.
 
 **Station**|**Lon**|**Lat**
 -----|-----|-----
-WS-1: turistica|-73.05851|-50.49192
+WS-1: turística|-73.05851|-50.49192
 WS-2: Buscaini|-73.12766|-50.51844
 WS-3: Orloc|-73.13902|-50.53026
 
@@ -19,7 +19,7 @@ WS-3: Orloc|-73.13902|-50.53026
 
 **Station**|**Start Date**|**Latest Collection Date**
 -----|-----|-----
-WS-1: turistica|2020-02-21|2020-03-12
+WS-1: turística|2020-02-21|2020-03-12
 WS-2: Buscaini|2020-02-23|2020-03-12
 WS-3: Orloc|2020-02-23|2020-03-12
 
@@ -73,6 +73,13 @@ Rain bucket tips [0.01in]|The number of tipping-bucket rain gauge bucket tips [c
 
 ## Deployment images
 
+### WS-1: turística
+
+![After the installation of the lowest weather station, WS-1: turistica](images/DSC_2313_WS-1-turistica.JPG)
+
+Photo follows installation of the lowest weather station, off of the standard tourist trail. This is WS-1: turística.
+
+Pictured (left to right): Max Van Wyk de Vries, Andy Wickert, Shanti Penprase
 
 
 ## Funding support
