@@ -25,7 +25,7 @@ authors:
   given-names: "Kelly R."
   orcid: "https://orcid.org/0000-0003-2958-0507"
 title: "Perito Moreno weather stations"
-version: 20221012
-doi: 
+version: 20221013
+doi: 10.5281/zenodo.7193186
 date-released: 2022-10-12
 url: "https://github.com/MNiMORPH/Perito-Moreno-weather-stations"
