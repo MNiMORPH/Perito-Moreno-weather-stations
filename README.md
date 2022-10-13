@@ -26,7 +26,41 @@ WS-3: Orloc|2020-02-23|2020-03-12
 
 ## Data columns
 
-
+**CSV column**|**Description**
+-----|-----
+Time [UTC]|Universal Coordinated Time
+PressOB [mBar]|Atmospheric pressure from the on-board (and housing-enclosed) BME280 sensor [degrees Celsius]
+RH\_OB [%]|Atmospheric relative humidity from the on-board (and housing-enclosed) BME280 sensor [degrees Celsius]
+TempOB [C]|Atmospheric temperature from the on-board (and housing-enclosed) BME280 sensor [degrees Celsius]
+Temp RTC [C]|Atmospheric temperature from the on-board DS3231 real-time clock [degrees Celsius]
+Bat [V]|Voltage of the batteries comprising the main power supply; during the 2021–2022 deployment, this was provided by 3x AA cells in series [volts]
+R\_u [deg]|Roll of the upwards-facing [Project Monarch](https://github.com/NorthernWidget-Skunkworks/Project-Monarch) pyranometer [degrees from horizontal]
+P\_u [deg]|Pitch of the upwards-facing [Project Monarch](https://github.com/NorthernWidget-Skunkworks/Project-Monarch) pyranometer [degrees from horizontal]
+UVA\_u|Ultraviolet A radiation received by the upwards-facing [Project Monarch](https://github.com/NorthernWidget-Skunkworks/Project-Monarch) pyranometer [arbitrary sensor units]
+UVB\_u|Ultraviolet B radiation received by the upwards-facing [Project Monarch](https://github.com/NorthernWidget-Skunkworks/Project-Monarch) pyranometer [arbitrary sensor units]
+White\_u|Broad-spectrum visible white light received by the upwards-facing [Project Monarch](https://github.com/NorthernWidget-Skunkworks/Project-Monarch) pyranometer [arbitrary sensor units]
+Vis\_u (lx)|Broad-spectrum visible light received by the upwards-facing [Project Monarch](https://github.com/NorthernWidget-Skunkworks/Project-Monarch) pyranometer [lux]
+IR\_S\_u|Short-wavelength infrared radiation received by the upwards-facing [Project Monarch](https://github.com/NorthernWidget-Skunkworks/Project-Monarch) pyranometer [lux]
+IR\_M\_u|Mid-wavelength infrared radiation received by the upwards-facing [Project Monarch](https://github.com/NorthernWidget-Skunkworks/Project-Monarch) pyranometer [lux]
+PyroT\_u [C]|Temperature on the upwards-facing [Project Monarch](https://github.com/NorthernWidget-Skunkworks/Project-Monarch) pyranometer circuit board [degrees Celsius]
+R\_d [deg]|Roll of the downwards-facing [Project Monarch](https://github.com/NorthernWidget-Skunkworks/Project-Monarch) pyranometer [degrees from horizontal]
+P\_d [deg]|Pitch of the downwards-facing [Project Monarch](https://github.com/NorthernWidget-Skunkworks/Project-Monarch) pyranometer [degrees from horizontal]
+UVA\_d|Ultraviolet A radiation received by the downwards-facing [Project Monarch](https://github.com/NorthernWidget-Skunkworks/Project-Monarch) pyranometer [arbitrary sensor units]
+UVB\_d|Ultraviolet B radiation received by the downwards-facing [Project Monarch](https://github.com/NorthernWidget-Skunkworks/Project-Monarch) pyranometer [arbitrary sensor units]
+White\_d|Broad-spectrum visible white light received by the downwards-facing [Project Monarch](https://github.com/NorthernWidget-Skunkworks/Project-Monarch) pyranometer [arbitrary sensor units]
+Vis\_d (lx)|Broad-spectrum visible light received by the downwards-facing [Project Monarch](https://github.com/NorthernWidget-Skunkworks/Project-Monarch) pyranometer [lux]
+IR\_S\_d|Short-wavelength infrared radiation received by the downwards-facing [Project Monarch](https://github.com/NorthernWidget-Skunkworks/Project-Monarch) pyranometer [lux]
+IR\_M\_d|Mid-wavelength infrared radiation received by the downwards-facing [Project Monarch](https://github.com/NorthernWidget-Skunkworks/Project-Monarch) pyranometer [lux]
+PyroT\_d [C]|Temperature on the downwards-facing [Project Monarch](https://github.com/NorthernWidget-Skunkworks/Project-Monarch) pyranometer circuit board
+IR\_Long [mV]|Voltage from the downwards-facing [Project Monarch](https://github.com/NorthernWidget-Skunkworks/Project-Monarch) pyrgeometer (long-wave infrared thermometer) [millivolts]
+IR\_Long [C]|Inferred ground temperature from the [Project Monarch](https://github.com/NorthernWidget-Skunkworks/Project-Monarch) downwards-facing pyrgeometer (long-wave infrared thermometer) [degrees Celsius]
+PyrgT [C]|Temperature on the [Project Monarch](https://github.com/NorthernWidget-Skunkworks/Project-Monarch) downwards-facing pyrgeometer (long-wave infrared thermometer) circuit board [degrees Celsius]
+NumTicks [Cnt]|Number of recorded anemometer revolutions since the last data logging interval. -9999 is the error value. Can be converted into wind speed. [unitless]
+Wind direction [degrees]|Wind direction. WS-2 and WS-3 should be corrected by 180 degrees. [azimuth: degrees]
+Humidity [%]|Relative humidity [percent]
+Temp Atmos [C]|Atmospheric temperature [degrees Celsius]
+Distance [mm]|Distance from ultrasonic rangefinder to surface (rock or snow) [millimeters]
+Rain bucket tips [0.01in]|The number of tipping-bucket rain gauge bucket tips [count]
 
 
 ## Field Notes
