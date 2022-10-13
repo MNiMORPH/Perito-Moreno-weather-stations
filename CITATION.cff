@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "Please cite this data set and ancillary information as follows."
+authors:
+- family-names: "Wickert"
+  given-names: "Andrew D."
+  orcid: "https://orcid.org/0000-0002-9545-3365"
+- family-names: "Schulz"
+  given-names: "Bobby"
+  orcid: "https://orcid.org/0000-0002-9272-4756"
+- family-names: "Penprase"
+  given-names: "Shanti B."
+  orcid: "https://orcid.org/0000-0002-8870-9377"
+- family-names: "Van Wyk de Vries"
+  given-names: "Maximillian S."
+  orcid: "https://orcid.org/0000-0001-7752-8813"
+- family-names: "Romero"
+  given-names: "Matías"
+- family-names: "Roberti"
+  given-names: "Gioachino"
+  orcid: "https://orcid.org/0000-0002-3856-208X"
+- family-names: "Tamburini Beliveau"
+  given-names: "Guillermo"
+  orcid: "https://orcid.org/0000-0002-4554-9334"
+- family-names: "MacGregor"
+  given-names: "Kelly R."
+  orcid: "https://orcid.org/0000-0003-2958-0507"
+title: "Perito Moreno weather stations"
+version: 20221012
+doi: 
+date-released: 2022-10-12
+url: "https://github.com/MNiMORPH/Perito-Moreno-weather-stations"
