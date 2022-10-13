@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/549841466.svg)](https://zenodo.org/badge/latestdoi/549841466)
+
 # Perito-Moreno-weather-stations
 Data from UMN-deployed and Northern-Widget-provided weather stations along the southern side of Glacar Perito Moreno (Feb-Mar, 2022)
 
