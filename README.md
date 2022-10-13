@@ -7,6 +7,12 @@ CC-BY 4.0 license applies to data.
 
 ## Locations
 
+**Station**|**Lon**|**Lat**
+-----|-----|-----
+WS-1: turistica|-73.05851|-50.49192
+WS-2: Buscaini|-73.12766|-50.51844
+WS-3: Orloc|-73.13902|-50.53026
+
 ## Data collection timeline
 
 *All data were collected from the time of deployment to our last visit on 2020-03-12. Due to the onset of the COVID-19 pandemic and our thereafter rapid departure from Patagonia, no further data were downloaded, though if the stations are intact, they likely have recorded substantial additional data.*
