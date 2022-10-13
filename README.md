@@ -7,10 +7,15 @@ CC-BY 4.0 license applies to data.
 
 ## Locations
 
-
 ## Data collection timeline
 
 *All data were collected from the time of deployment to our last visit on 2020-03-12. Due to the onset of the COVID-19 pandemic and our thereafter rapid departure from Patagonia, no further data were downloaded, though if the stations are intact, they likely have recorded substantial additional data.*
+
+**Station**|**Start Date**|**Latest Collection Date**
+-----|-----|-----
+WS-1: turistica|2020-02-21|2020-03-12
+WS-2: Buscaini|2020-02-23|2020-03-12
+WS-3: Orloc|2020-02-23|2020-03-12
 
 
 ## Data columns
