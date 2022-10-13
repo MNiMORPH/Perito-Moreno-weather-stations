@@ -81,6 +81,9 @@ Photo follows installation of the lowest weather station, off of the standard to
 
 Pictured (left to right): Max Van Wyk de Vries, Andy Wickert, Shanti Penprase
 
+*Photo: Mati Romero*
+
+
 ### WS-2: Buscaini
 
 ![Assembling the middle weather station, WS-2: Buscaini](images/DSC_2432_WS-2-Buscaini.JPG)
@@ -88,6 +91,19 @@ Pictured (left to right): Max Van Wyk de Vries, Andy Wickert, Shanti Penprase
 Photo during installation of the middle weather station, on a moraine near the Buscaini shelter (either ruins or it was always just a low wooden wall) but out of the forest. This is WS-2: Buscaini.
 
 Pictured (left to right): Shanti Penprase, Max Van Wyk de Vries, Gio Roberti
+
+*Photo: Andy Wickert*
+
+
+### WS-3: Orloc
+
+![Installing the main mast of the highest weather station, WS-3: Orloc](images/IMG_20200222_181603_HDR_WS-3-Orloc.jpg)
+
+Photo during installation of the main mast of the upper weather station, on bedrock between Glaciar Perito Moreno and Glaciar Orloc. Some team members are pausing to photograph the spectacular view. This is WS-3: Orloc.
+
+Pictured (left to right): Gullermo Tamburini Beliveau, Max Van Wyk de Vries, Gio Roberti
+
+*Photo: Andy Wickert*
 
 
 ## Funding support
