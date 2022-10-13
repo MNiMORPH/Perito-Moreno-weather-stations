@@ -81,6 +81,14 @@ Photo follows installation of the lowest weather station, off of the standard to
 
 Pictured (left to right): Max Van Wyk de Vries, Andy Wickert, Shanti Penprase
 
+### WS-2: Buscaini
+
+![Assembling the middle weather station, WS-2: Buscaini](images/DSC_2432_WS-2-Buscaini.JPG)
+
+Photo during installation of the middle weather station, on a moraine near the Buscaini shelter (either ruins or it was always just a low wooden wall) but out of the forest. This is WS-2: Buscaini.
+
+Pictured (left to right): Shanti Penprase, Max Van Wyk de Vries, Gio Roberti
+
 
 ## Funding support
 
